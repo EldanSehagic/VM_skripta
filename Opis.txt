@@ -1,0 +1,15 @@
+1.Napravio sam folder preko terminala(mkdir)
+
+2.Putanja do foldera(cd)
+
+3.Iniciajlizirao sam taj folder(vagrant init)
+
+4.Uredio sam vagrantfile pomocu VS(ubuntu/focal64, konfigurisao 2GB RAM-a i 2 CPU jedinice, mreznr postavke, zatim sam
+ dodao skriptu koja ce pokrenuti masinu i instalirati GIT)
+
+5.Prilikom pokretanja u terminalu pomocu vagrant up,pojavio se error u konfiguraciji.
+
+6.Ispravio sam gresku(kod mreznih postavki private network ispravljeno u private_network)
+
+7.Jos jedan slucjni error prilikom kucanja IP adrese
+
